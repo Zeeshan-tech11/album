@@ -31,4 +31,8 @@ color: 'white';
     .line{
         flex-direction: column;
     }
+    .album-container{
+        margin: .5rem;
+        
+    }
 }
