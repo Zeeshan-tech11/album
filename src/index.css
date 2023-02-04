@@ -26,3 +26,9 @@ color: 'white';
     margin: .1rem;
     border-radius: 20;
 }
+@media screen and (max-width: 600px) {
+    
+    .line{
+        flex-direction: column;
+    }
+}
